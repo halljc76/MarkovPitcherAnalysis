@@ -12,6 +12,8 @@ author: |
         | For Consideration to the UNC Baseball Analytics Team
         | \vspace{0.25cm}
         | December 16th, 2020
+        | \vspace{0.25cm}
+        | Github Link: https://github.com/halljc76/MarkovPitcherAnalysis
         
 output:
   pdf_document: default
