@@ -437,7 +437,7 @@ $\bullet$ Hitting: The complement to pitching, hitting is another pillar of base
 
 $\bullet$ Scoring: Analyzing the states of the base-paths using Markov Chains might be able to answer questions of a team's expected Runs for a particular timeframe, whether it be the next game, season, etc. This could also have applications in calculating WAR (Wins Above Replacement), if it does not already.
 
-$\bullet$ Analyzing Other Pitchers: Obviously, the applications of this type of stochastic model are far more than just Kershaw's pitches! I personally want to make this script into an executable, but I fear that it may overlook necessary data cleaning (e.g., the one at-bat the entire season in which Kershaw threw a changeup... or at least what Statcast thought was a changeup).
+$\bullet$ Analyzing Other Pitchers: Obviously, the applications of this type of stochastic model are far more than just Kershaw's pitches! I personally want to make this script into an executable, but I fear that it may overlook necessary data cleaning (e.g., the three at-bats the entire season in which Kershaw threw a changeup... or at least what Statcast thought was a changeup).
 
 ### Conclusion
 
