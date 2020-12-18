@@ -9,3 +9,7 @@ to techniques involving ggplot and web_scraping using the baseballr package (htt
 
 I am extremely grateful for the opportunities that have led me to this project, and, irrespective of its short-term results, I am happy to have taken a step forward in my 
 vocational journey!
+
+Best, 
+
+Carter Hall
