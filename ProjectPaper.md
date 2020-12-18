@@ -34,7 +34,7 @@ can benefit from data analysis.
 
 This report attempts to introduce to the UNC Baseball Analytics Team a method
 employed in similar research to a scenario regarding pitcher performance. Principally,
-the following document attempts to offer insight into the tendencies of pitcher-catcher relations as it relates to what type of pitch is signaled/thrown, and when. 
+the following document attempts to offer insight into the tendencies of pitcher-catcher relations as they relate to what type of pitch is signaled/thrown, and when. 
 
 ### Acknowledgement of Published Literature
 
