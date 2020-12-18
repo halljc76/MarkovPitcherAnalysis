@@ -178,7 +178,7 @@ $\bullet$ pitchRx (strikezone plot)
 ### Functions
 
 *Quick Aside*: All of the formal code for these functions will be present in 
-the corresponding Github Repository, linked at the beginning of these report. The code has been removed here for the sole purpose of brevity (or, to at least combat excessive length...).
+the corresponding Github Repository, linked at the beginning of this report. The code has been removed here for the sole purpose of brevity (or, to at least combat excessive length...).
 
 **Function Details**:
 
