@@ -318,7 +318,7 @@ gt1 <- gt(newTransMatrix_df, rownames_to_stub = TRUE) %>%
   ) %>%
   tab_source_note("CU: Cutter, FF: Four-Seam Fastball, SL: Slider || 
                              B: Ball, CS: Called Strike (no swing), SW: Swing (Includes Hit,
-                             Foul, Swing and Miss (SWM) || Rounding may make some rows have sums nonequal to 1 (i.e., 1.001 or 0.999).")
+                             Foul, Swing and Miss (SWM)) || Rounding may make some rows have sums nonequal to 1 (i.e., 1.001 or 0.999).")
 gt1 <- color_table(gt1, newTransMatrix_df)
 gt1
 saveMatrix(gt1, "ck_markovMatrixPTRows.html")
