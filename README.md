@@ -13,3 +13,6 @@ vocational journey!
 Best, 
 
 Carter Hall
+
+
+P.S.: The two .csv files in this repository are there for the user's convenience. They contain the necessary data manipulation done in the .rmd file and can be directly used in accordance with the functions for making the Markov Chains/Transition Matrices, if someone wishes to shortcut the entirety of the code to more directly view the results.
